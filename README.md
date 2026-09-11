@@ -2,7 +2,9 @@
 
 A serene, mindful task and flow management application designed for calm intentionality, deep work, and balanced daily rhythm. Built according to the **Focus App Design System** (`design.md`).
 
-![Focus Preview](/focus-icon.svg)
+🌐 **Live Demo:** [https://17130239-coder.github.io/todo-app/](https://17130239-coder.github.io/todo-app/)
+
+![Focus Preview](./public/focus-icon.svg)
 
 ---
 
