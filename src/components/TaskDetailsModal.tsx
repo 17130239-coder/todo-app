@@ -65,7 +65,7 @@ export const TaskDetailsModal: React.FC = () => {
             <img
               alt="Focus App Icon"
               className="h-7 w-7 object-contain shrink-0"
-              src="/focus-icon.svg"
+              src="./focus-icon.svg"
             />
             <h1 className="font-headline-md text-headline-md text-primary tracking-tight truncate pl-1">
               Task Details

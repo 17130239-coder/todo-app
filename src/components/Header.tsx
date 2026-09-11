@@ -24,7 +24,7 @@ export const Header: React.FC = () => {
           <img
             alt="Focus App Icon"
             className="h-8 w-8 object-contain shrink-0"
-            src="/focus-icon.svg"
+            src="./focus-icon.svg"
           />
           <div className="flex flex-col min-w-0">
             <span className="font-headline-md text-headline-md text-primary tracking-tight truncate">
